@@ -7,7 +7,7 @@
 ### Olá, sou o Milton Bertachini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Tenho (anoAtual-1995) anos. Sou bacharel em Sistemas pela Universidade Presbiteriana Mackenzie (SP).<br>
-Sou apaixonado por tecnologia opensource e descomplicada. 
+Sou apaixonado por tecnologia opensource e descomplicada. Imprimindo hello world e fazendo <a href="https://gohorseprocess.com.br/extreme-go-horse-xgh/">XGH</a> desde os 16.
 
 Seja bem vindo ao meu perfil e fique a vontade para entrar em contato :)
 
