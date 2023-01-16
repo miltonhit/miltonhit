@@ -8,8 +8,6 @@
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-square&logo=whatsapp&logoColor=white)](https://whatsa.me/5511987702333/?t=Ol%C3%A1,%20achei%20o%20seu%20perfil%20no%20GitHub%20:)
 
 Sou bacharel em Sistemas pela Universidade Presbiteriana Mackenzie (SP).<br>
-Sou apaixonado por tecnologia opensource e descomplicada. Imprimindo hello world e fazendo <a href="https://gohorseprocess.com.br/extreme-go-horse-xgh/">XGH</a> desde os 16.
-
 Seja bem vindo ao meu perfil, fique a vontade para entrar em contato :)
 
 <p>
